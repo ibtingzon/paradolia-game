@@ -1,5 +1,5 @@
-# paradolia-game
-Paradolia: A multiplayer networked game using Python/Pygame 
+# Paradolia
+A multiplayer networked game using Python/Pygame for CS 145 class (undergrad)
 
 # Dependencies:
 * Python 2.7
